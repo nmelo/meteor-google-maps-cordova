@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Cordova.depends({
-  'plugin.google.maps': 'https://github.com/wf9a5m75/phonegap-googlemaps-plugin/tarball/e77d0edc6e561c74dc9ce755f93ee5295e74185f'
+  'cordova-plugin-googlemaps ': '1.3.4'
 });
 
 Package.onUse(function(api) {
