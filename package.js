@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'gwendall:google-maps-cordova',
+  name: 'nmelo:google-maps-cordova',
   summary: 'Native Google Maps for Cordova',
-  git: 'https://github.com/gwendall/meteor-google-maps-cordova.git',
-  version: '0.1.4'
+  git: 'https://github.com/nmelo/meteor-google-maps-cordova.git',
+  version: '0.1.5'
 });
 
 Cordova.depends({
